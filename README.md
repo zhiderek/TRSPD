@@ -2,7 +2,7 @@
 Toronto Rehab Stroke Posture Detection Dataset
 This notebook describes the dataset accompanying the papers: 
 'The Toronto Rehab Stroke Pose Dataset to Detect Compensation during Stroke Rehabilitation Therapy' - Dolatabadi, et al. (2017)
-'Automatic Detection of Compensation during Robotic Stroke Rehabilitation Therapy' - Zhi et al. (Submitted).
+'Automatic Detection of Compensation during Robotic Stroke Rehabilitation Therapy' - Zhi et al. (Under Review).
 
 The dataset is available here: https://www.kaggle.com/derekdb/toronto-robot-stroke-posture-dataset/data.
 
