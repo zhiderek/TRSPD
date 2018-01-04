@@ -1,10 +1,13 @@
 # TRSPD
 Toronto Rehab Stroke Posture Detection Dataset
 This notebook describes the dataset accompanying the following papers: 
+
 **Dataset:**           
+
 [1] Elham Dolatabadi, Ying Xuan Zhi, Bing Ye, Marge Coahran, Giorgia Lupinacci, Alex Mihailidis, Rosalie Wang and Babak Taati, The Toronto Rehab Stroke Pose Dataset to Detect Compensation during Stroke Rehabilitation Therapy, Pervasive Health, 2017
  
 **Baseline Results:**
+
 [2] Y. X. Zhi, M. Lukasik, M. Li, E. Dolatabadi, R. H. Wang, and B. Taati. Automatic Detection of Compensation during Robotic Stroke Rehabilitation Therapy. IEEE Journal of Translational Engineering in Health and Medicine, 2017. doi:10.1109/JTEHM.2017.2780836
 
 The dataset is available here: https://www.kaggle.com/derekdb/toronto-robot-stroke-posture-dataset/data.
